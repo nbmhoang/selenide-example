@@ -5,6 +5,8 @@
 This project is a test automation framework built with Selenide, Java, and Maven. It provides a robust foundation for
 web UI testing with clean, readable test code and powerful reporting capabilities.
 
+AUT/Demo website: https://demo.testarchitect.com/
+
 ## Features
 
 - **Selenide-based UI Testing**: Concise and stable UI tests with automatic screenshots and advanced element selectors
